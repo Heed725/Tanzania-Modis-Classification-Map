@@ -1,0 +1,18 @@
+ID,Name ,Percentage,Color ID
+1,Evergreen Needleleaf Forests,9.08E-05,#048700
+2,Evergreen Broadleaf Forests,2.017131541,#30cd00
+3,Deciduous Needleleaf Forests,4.54E-05,#67ea3f
+4,Deciduous Broadleaf Forests,2.942369162,#45ca83
+5,Mixed Forests,3.124465008,#64ef74
+6,Closed Shrublands,0.04325344,#84570a
+7,Open Shrublands,0.040665045,#a2a22f
+8,Woody Savannas,1.896657656,#efc14d
+9,Savannas,40.58587181,#c78b00
+10,Grasslands,40.49950117,#ebeb00
+11,Permanent Wetlands,0.486050595,#5458ed
+12,Croplands,1.670627213,#e88e37
+13,Urban and Built-up Lands,0.129669498,#ff3030
+14,Natural Vegetation Mosaic,0.333971047,#d2e100
+15,Permanent Snow and Ice,0.000181642,#f4f4f4
+16,Barren,0.076289531,#c7c613
+17,Water Bodies,6.153159408,#3300c5
