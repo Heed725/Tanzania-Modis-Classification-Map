@@ -6,7 +6,7 @@ This Repository Aims TO show Classfication Map Of Tanzania 2020,The Software Use
 You can download the codes and modify to you're area of interest(Another country),To use them you must have an account from Nasa Earth                    (https://urs.earthdata.nasa.gov/) In which to use this code would require youre username and password,For QGIS ive made a styling qml which you could use for styling your map as shown above
 
 # Graph preparation
-Also i've used QGIS Through Data Plotly to prepare to graph to show percentage of different classes found in Land-Cover classfication from MODIS as shown below
+Also i've used QGIS Through Data Plotly plugin to prepare to graph to show percentage of different classes found in Land-Cover classfication from MODIS as shown below
 
 ![Tanzania Landcover Classfication for year 2020(Bar Graph)](https://github.com/Heed725/Tanzania---Modis-Classification-Map/assets/86722789/5dfcc459-d212-42ff-821f-734c5dc36178)
 
