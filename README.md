@@ -1,7 +1,7 @@
 # Tanzania Modis Classification Map
 This Repository Aims TO show Classfication Map Of Tanzania 2020,The Software Used Were R-Programming/R-studio and QGIS,R-studio through MODIStsp Package Was used to Extract MODIS Data and QGIS Was used for Visualizing and Final Touches as shown Below(The Code and Final output which was created in Qgis)
 
-```
+```r
 install.packages("MODIStsp")
 MODIStsp_get_prodlayers("MCD12Q1")
 # remotes::install_github("wmgeolab/rgeoboundaries")
